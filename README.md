@@ -1,3 +1,6 @@
+# ZuliBakes v2
+Previously I created a ZuliBakes website as a way to learn React and Redux. After a year, I have chosen to resturcture the website's architecture to my liking, adopting some of the designs from the previous version but mostly recreating the website (also as a way to practice my React and Redux). Currently WIP.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
